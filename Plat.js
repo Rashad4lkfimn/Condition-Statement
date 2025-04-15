@@ -12,6 +12,6 @@ for (let i = 0; i < platKendaraan.length; i++) {
             console.log(plat + " memiliki nomor ganjil.");
             break;
         default:
-            console.log(plat + " memiliki nomor tidak valid.");
+            console.log(plat + " tidak memiliki plat.");
     }
 }
